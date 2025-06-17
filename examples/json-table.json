@@ -1,0 +1,12 @@
+[
+    {
+        "Text": "Some Text",
+        "Number": 120,
+        "Boolean": true
+    },
+    {
+        "Text": "Another string",
+        "Number": 1337,
+        "Boolean": false
+    }    
+]
