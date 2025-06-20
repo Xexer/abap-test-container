@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+    <asx:values> 
+        <DATA>
+            <item>
+                <TEXT>First XML entry</TEXT>
+                <NUMBER>112</NUMBER>
+                <BOOLEAN>X</BOOLEAN>
+            </item>
+            <item>
+                <TEXT>Second entry</TEXT>
+                <NUMBER>9</NUMBER>
+                <BOOLEAN></BOOLEAN>
+            </item>
+            <item>
+                <TEXT>Last entry</TEXT>
+                <NUMBER>14</NUMBER>
+                <BOOLEAN>X</BOOLEAN>
+            </item>                        
+        </DATA>
+    </asx:values> 
+</asx:abap> 
