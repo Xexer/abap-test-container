@@ -10,4 +10,4 @@ In this case, the data is loaded from GitHub and made available to the test case
 
 ## Example
 
-Möchtest du ein Beispiel für die Konfiguration und die Daten haben, dann findest du im Unit Test der Klasse ZCL_TEST_CONTAINER weiter Informationen.
+If you would like an example of the configuration and data, you can find further information in the unit test of the ZCL_TEST_CONTAINER class.
