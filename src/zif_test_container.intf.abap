@@ -2,14 +2,14 @@ INTERFACE zif_test_container
   PUBLIC.
 
   "! Loads a JSON file and converts it to an internal table
-  "! @parameter generic_table | Generic table format
-  METHODS get_json_table
-    CHANGING generic_table TYPE ANY TABLE.
+  "! @parameter generic | Generic format
+  METHODS get_json_data
+    CHANGING generic TYPE any.
 
   "! Loads a XML file and converts it to an internal table
-  "! @parameter generic_table | Generic table format
-  METHODS get_xml_table
-    CHANGING generic_table TYPE ANY TABLE.
+  "! @parameter generic | Generic format
+  METHODS get_xml_data
+    CHANGING generic TYPE any.
 
   "! Loads a file and returns it in a string format
   "! @parameter result | File as string
