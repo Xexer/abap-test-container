@@ -1,0 +1,16 @@
+{
+    "Version": "1.0",
+    "Description": "Some Deep Data",
+    "Table": [
+        {
+            "Text": "Some Text",
+            "Number": 120,
+            "Boolean": true
+        },
+        {
+            "Text": "Second entry",
+            "Number": 3,
+            "Boolean": false
+        }        
+    ]
+}
